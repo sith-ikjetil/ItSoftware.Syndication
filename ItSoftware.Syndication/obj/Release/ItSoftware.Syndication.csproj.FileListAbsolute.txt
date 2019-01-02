@@ -1,0 +1,5 @@
+D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\bin\Release\ItSoftware.Syndication.dll
+D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\bin\Release\ItSoftware.Syndication.pdb
+D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Release\ItSoftware.Syndication.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Release\ItSoftware.Syndication.dll
+D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Release\ItSoftware.Syndication.pdb
