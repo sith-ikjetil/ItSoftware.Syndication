@@ -47,3 +47,4 @@ moduleComments.Elements.Add(moduleElementComments);
 
 string rssXml = rss.Save(RssVersion.RSS_2_0_1, "utf-8").OuterXml;
 ```
+**NB! THIS SOFTWARE HAS NO LICENSE!**
