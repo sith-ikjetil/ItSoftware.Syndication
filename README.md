@@ -1,4 +1,5 @@
 # ItSoftware.Syndication.2017
+License: **GPL-3.0-or-later**  
 An RSS/ATOM/RDF syndication library for .NET. See (http://www.ikjetil.no/Home/Item/10) for a downloadable assembly.
 Also see (http://www.ikjetil.no/Home/Item/11) for a blog post about it.
 
@@ -47,4 +48,3 @@ moduleComments.Elements.Add(moduleElementComments);
 
 string rssXml = rss.Save(RssVersion.RSS_2_0_1, "utf-8").OuterXml;
 ```
-**NB! THIS SOFTWARE HAS NO LICENSE!**
