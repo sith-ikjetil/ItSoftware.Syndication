@@ -1,6 +1,0 @@
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\bin\Debug\ItSoftware.Syndication.dll
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\bin\Debug\ItSoftware.Syndication.pdb
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Debug\ItSoftware.Syndication.csprojAssemblyReference.cache
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Debug\ItSoftware.Syndication.csproj.CoreCompileInputs.cache
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Debug\ItSoftware.Syndication.dll
-D:\Projects\GitHub\ItSoftware.Syndication.2017\ItSoftware.Syndication\obj\Debug\ItSoftware.Syndication.pdb
