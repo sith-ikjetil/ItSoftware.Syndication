@@ -1,6 +1,6 @@
-# ItSoftware.Syndication.2017
+# ItSoftware.Syndication
 License: **GPL-3.0-or-later**  
-An RSS/ATOM/RDF syndication library for .NET. See (http://www.ikjetil.no/Home/Item/10) for a downloadable assembly.
+An RSS/ATOM/RDF syndication library for .NET Framework. See (http://www.ikjetil.no/Home/Item/10) for a downloadable assembly.
 Also see (http://www.ikjetil.no/Home/Item/11) for a blog post about it.
 
 An example of how to create an rss feed with comments:
