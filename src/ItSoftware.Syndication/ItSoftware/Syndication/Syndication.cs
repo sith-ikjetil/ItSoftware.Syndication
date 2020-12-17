@@ -12,7 +12,7 @@ namespace ItSoftware.Syndication {
 	public static class Syndication {		
 
 		#region Syndication Internal Static Readonly Variables
-		internal static readonly string SYNDICATION_FORMAT_INVALID = "Syndication format was invalid.\r\n{0}";
+		internal static readonly string SYNDICATION_FORMAT_INVALID = "Syndication format was invalid.";
         internal static readonly string URI_FORMAT_UNSUPPORTED_OR_INVALID = "Unsupported or invalid uri. Only supports http, ftp and file.";
 		#endregion              		
 
@@ -350,8 +350,7 @@ namespace ItSoftware.Syndication {
 			//
 			// Failed to create syndication object.
 			//
-			string msg = string.Format(Syndication.SYNDICATION_FORMAT_INVALID,syndication);
-			throw new SyndicationFormatInvalidException(msg);
+			throw new SyndicationFormatInvalidException(Syndication.SYNDICATION_FORMAT_INVALID);
 		}
 		/// <summary>
 		/// Gets the characterset from content type.
